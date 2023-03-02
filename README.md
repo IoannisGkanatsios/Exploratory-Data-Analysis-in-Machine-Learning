@@ -4,3 +4,4 @@ Explotaroty data analysis for machine learning. The jupyter notebooks provide ex
 - How to handle skewed data
 - Feature selection for numberical data
 - Feature selection for categorical data
+- ANOVA Testing
